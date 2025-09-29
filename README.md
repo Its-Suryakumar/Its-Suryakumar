@@ -34,9 +34,9 @@ I'm passionate about solving real-world problems with **AI, Machine Learning, Cl
 ---
 
 ## 📈 GitHub Stats
-![Suryakumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryakumarP&show_icons=true&count_private=true&theme=radical)  
+![Suryakumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Its-Suryakumar&show_icons=true&count_private=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryakumarP&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Suryakumar&layout=compact&theme=radical)  
 
 ---
 
